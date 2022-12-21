@@ -1,1 +1,1 @@
-This repository contains technical interview exercises
+This repository contains ALX technical interview exercises
